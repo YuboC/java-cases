@@ -49,3 +49,9 @@ public class test2 {
         }
     }
 }
+
+// char select = Utility.readMenuSelection(); //char类型，case 后改为'1'
+// int money = Utility.readNumber();
+// String info = Utility.readString();
+// char confirm = Utility.readConfirmSelection();
+
