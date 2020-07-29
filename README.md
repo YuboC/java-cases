@@ -1,14 +1,36 @@
-# java-cases
+Data Structure & Algorism
 
-***Guessing characters***
+#### Recursion I | 递归 I  
+斐波那契数列  
+Fibo( )  
+· Sample Question a^b  
+Sorting Algorithms  
+Selection Sort  
+· selection sort  
+Merge sort  
+Quick Sort  
+Rainbow Sort ​
 
-- this is a small game that generating 5 ramdom alphbetes to be guess. 
-- the player get a feedback about how many charactor is correct.
-
-***一年中的第几天（闰月闰年）***
+#### Linked List
+Reverse linked list in 2 ways  
+ - iterator  
+ - recurisvely  
   
-***排序***
- - 冒泡排序
- - 直接排序
+find the middle of a LL  
+ - fast & slow pointer
+ - one pointer, two rounds
+ - online algorism vs offline
+  
+check if there is a circle in LL
+  
+insert a node in a sorted LL  
+  
+insert in a circular LL  
+  
+merge two sorted LL into one  
+  
+Middle Reverse merge  
+  
+Partition List
 
-***记账软件***
+
